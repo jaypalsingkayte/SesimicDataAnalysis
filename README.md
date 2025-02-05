@@ -1,4 +1,11 @@
 # SesimicDataAnalysis
+SesimicDataAnalysis/
+├── main.py
+├── copy_rename_duplicates.py
+├── duplicate_min_max_amplitude.py  ✅ Ensure this file exists
+├── Destination/
+└── TestDataSegy/
+
 
 copy_rename_duplicates.py – Clearly indicates that the script handles copying and renaming duplicate files.
         Cleans user input paths before use.
